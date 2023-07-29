@@ -1,2 +1,1 @@
-# GKeygen
-GKeyGen es un generador de claves AES para uso libre de contraseñas ya sea para Wi-Fi o el uso que el usuario le quiera dar.
+No me hago responsable por el mal uso que le puedan dar al programa, este proyecto es 100% OpenSource pero si vas a usar líneas de código da creditos porfavor.
